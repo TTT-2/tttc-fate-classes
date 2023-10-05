@@ -329,7 +329,7 @@ CLASS.AddClass("FRAUD", {
 CLASS.AddClass("HACKER", {
 	color = Color(0, 255, 255, 255),
 	passiveItems = {
-		"item_ttt_slowmotion",
+		"item_ttt_sm",
 		"item_ttt_thelittlehelper"
 	},
 	passive = true,
@@ -392,7 +392,7 @@ CLASS.AddClass("BOUNTYHUNTER", {
 		"item_ttt_radar"
 	},
 	passiveWeapons = {
-		"weapon_ttt_goldendeagle"
+		"weapon_ttt_powerdeagle"
 	},
 	passive = true,
 	deactivated = true,
